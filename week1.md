@@ -1,13 +1,13 @@
 ## Author
 ### By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Hello, I am **Yazish khan** Writing this Documentation to share my DevOps journey With the Project of Physical-server. Which I had building.
+Hello, I am **Yazish khan** Writing this Documentation to share my DevOps journey With the Project of On-Premises-Server. Which I had building.
 
 
 
 
 ### 1. Introduction.
-This is a week 1 of the series to build the Physical-Server from Zero to Hero.
+This is a week 1 of the series to build the On-Premises-Server from Zero to Hero.
 
 #### Steps involving to build server: </br>
 1. Choosing Hardware
@@ -126,7 +126,7 @@ installation.
 
 
 ## 🥳 Done
-## 😊 Hear We have Done the week one of building OWN Physical-Server 
+## 😊 Hear We have Done the week one of building OWN On-Premises-Server 
 
 
 ### By. </br>

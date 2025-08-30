@@ -13,10 +13,11 @@ SSH, or Secure Shell, constitutes a cryptographic network protocol designed to e
     --> Monitoring 
 
 #### Example.
-![image](<img width="1918" height="1049" alt="Image" src="https://github.com/user-attachments/assets/695777b8-b8b5-4491-bd26-a47e566463d1" />)
-
 ##### This is an shell of my machine. 
+![image](https://github.com/user-attachments/assets/695777b8-b8b5-4491-bd26-a47e566463d1)
 
-![image](<img width="1916" height="1047" alt="Image" src="https://github.com/user-attachments/assets/ef9c0185-9f35-4e05-a082-a2d94c911ef9" />)
+
 
 ##### This is an shell of the server when we ssh into it using `Password` authentication.
+![image](https://github.com/user-attachments/assets/ef9c0185-9f35-4e05-a082-a2d94c911ef9)
+

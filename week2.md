@@ -161,7 +161,7 @@
         ````bash
         sudo ufw status
         ````
-        You should now see SSH listed as allowed. 
+        You should now see SSH(22) listed as allowed. 
 ----
 > #### Step 5 (Testing SSH.)
 1. On the Ubuntu(node) terminal run this command to Know it's `IP`.
@@ -174,7 +174,7 @@ ifconfig
     ssh <username-of-node@IP-of-node>
     ````
     - `username` we set on the time of Ubuntu installation.
-3. Then is show some massage if we are connecting for first time.
+3. There it show some massage if we are connecting for first time.
     - Just type `yes` and press Enter.
     - Then it ask for `password`.
     - Enter the `password` we set on the time of installation.

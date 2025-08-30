@@ -7,7 +7,7 @@ Hello, I am **Yazish khan** Writing this Documentation to share my DevOps journe
 
 
 ### 1. Introduction.
-This is a week 1 of the series to build the Physical-Server from Zero to Hero.
+This is a week 1 of the series to build the K8s Physical-Server from Zero to Hero.
 
 #### Steps involving to build server: </br>
 1. Choosing Hardware
@@ -126,7 +126,7 @@ installation.
 
 
 ## 🥳 Done
-## 😊 Hear We have Done the week one of building OWN Physical-Server 
+## 😊 Hear We have Done the week one of building OWN K8s Physical-Server 
 
 
 ### By. </br>

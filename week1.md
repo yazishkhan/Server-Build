@@ -126,7 +126,7 @@ installation.
 
 
 ## 🥳 Done
-## 😊 Hear We have Done the week one of building OWN On-Premises-Server 
+## 😊 Hear We have Done the week 1 of building OWN On-Premises-Server  
 
 
 ### By. </br>

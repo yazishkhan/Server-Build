@@ -186,6 +186,6 @@ ifconfig
 </br>
 
 ## 🥳 Done
-## 😊 Hear We have Done the week one of building OWN K8s Physical-Server 
+## 😊 Hear We have Done the week 2 of building OWN K8s On-Premises-Server  
 
 ## By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

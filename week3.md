@@ -132,6 +132,15 @@ Step 3: (optional)
     ````bash
     chmod 700 ~/.ssh
     ````
+
+## 7. Verifying password-less ssh access.
+##### Just do an ssh using this command it will not ask for password.
+
+````bash
+ssh <hots-name@IP>
+`````
+![image](https://github.com/user-attachments/assets/caef8fdb-c8d4-4c37-a475-debefeca45b0)
+
 ## This how ssh and it's password less mechanism works.
 
 ## 🥳 Done

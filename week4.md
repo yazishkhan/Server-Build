@@ -110,6 +110,7 @@ An inventory that is generated dynamically at runtime using scripts or APIs. Com
     ![image](https://github.com/user-attachments/assets/f6571411-a470-45f4-acb9-3ea5d63f6de4)
 - We just need to edit this and write all info about host which is need to connect by `ssh`.
 - Just edit it like this.
+
     ![image](https://github.com/user-attachments/assets/69621dd6-206a-4bcc-b45f-72248644f8ed)
     
     - There we have 3 groups this is only defined by me. You can define as per your req and some of the variables.

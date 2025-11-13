@@ -277,7 +277,16 @@ step 3: (optional)
     ````bash
     ansible-playbook -i <path-of-inventory> <path-of-repository>
     ````
-
+- When the Ansible runs the playbook it will show on terminal. if we need to see the steps which are performing by Ansible Engin.
+- We need to force to Ansible to shoe the output verbosely by passing `-vv` parameter in command.
+    ````bash
+    ansible-playbook -i <path-of-inventory> <path-of-repository> -vv
+    ````
+- Then it will show the all steps which are performing by ansible
+- One thing if our all system required an password for task execution pass `-K` parameter in command so when the playbook goes to run the Ansible prompts to ask an password.
+    ````bash
+    ansible-playbook -i <path-of-inventory> <path-of-repository> -K -vv
+    ````
 ----
 ##### This is all about Ansible and its power to execute the task on hundreds of nodes by using simple inventory setup, playbook and some commands.
 ## 🥳 Done

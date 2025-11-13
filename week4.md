@@ -215,6 +215,7 @@ All [modules](https://docs.ansible.com/projects/ansible/latest/collections/ansib
 - E.g. ansible have `apt` module to install utilities,`file` module to manage file permission and owner,`ufw` module to open ports and manage it.
 - With the collection of this modules and its parameters we can write an playbook to execute the task. 
 - Let's see the example of playbook.
+
     ![image](https://github.com/user-attachments/assets/bd834919-4576-4e4d-b737-5ac8455b02d3)
     - The first keyword of playbook `name` define the name of playbook.
     - `hosts` defines the all host present in inventory which we have specify on the time of playbook execution in command.

@@ -3,7 +3,7 @@
 
 Hello, I am **Yazish khan** Writing this Documentation to share my DevOps journey With the Project of On-Premises-Server. Which I had building.
 
-
+## 🚀 Welcome to Phase 1
 
 
 ### 1. Introduction.
@@ -126,9 +126,8 @@ installation.
 
 
 ## 🥳 Done
-## 😊 Hear We have Done the week 1 of building OWN On-Premises-Server  
+## 😊 Hear We have Done the Phase 1 of building OWN On-Premises-Server  
 
+## By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### By. </br>
-## - Yazish Khan
 

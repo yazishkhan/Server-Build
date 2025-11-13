@@ -1,4 +1,4 @@
-## 🚀 Welcome to Week 3
+## 🚀 Welcome to Phase 3
 <br>
 
 ## 💡 Today we are understanding the ideology of `ssh` and password less `ssh` access using `ssh` keys 
@@ -144,6 +144,6 @@ ssh <hots-name@IP>
 ## This how ssh and it's password less mechanism works.
 
 ## 🥳 Done
-## 😊 Hear We have Done the week 3 of building OWN K8s On-Premises-Server 
+## 😊 Hear We have Done the Phase 3 of building OWN K8s On-Premises-Server 
 
 ## By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

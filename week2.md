@@ -1,4 +1,4 @@
-## 🚀 Welcome to Week2 
+## 🚀 Welcome to Phase 2
 <br>
 
 ## 💡 Today we can see how to install operating system on each nodes by configuring each steps and also configuring SSH.
@@ -37,6 +37,7 @@
    6. If you find. it throws screen like 
 
    ![Image](https://github.com/user-attachments/assets/ca540436-f3ab-4b02-8355-113285c664ac)
+## By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
    
    7. Go to Security Tab and disable the Secure boot.
@@ -186,6 +187,6 @@ ifconfig
 </br>
 
 ## 🥳 Done
-## 😊 Hear We have Done the week 2 of building OWN K8s On-Premises-Server  
+## 😊 Hear We have Done the Phase 2 of building OWN K8s On-Premises-Server  
 
 ## By. [Yazish Khan](https://www.linkedin.com/in/yazish-khan-3634752b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

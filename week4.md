@@ -17,7 +17,7 @@ Ansible provides open-source automation that reduces complexity and runs everywh
 Ansible uses simple, human-readable scripts called playbooks to automate your tasks. You declare the desired state of a local or remote system in your playbook. Ansible ensures that the system remains in that state.
 
 ----
-#### ✨ Features
+## ✨ Features
 **Agent-less architecture**
 Low maintenance overhead by avoiding the installation of additional software across IT infrastructure.
 
@@ -31,7 +31,7 @@ Low maintenance overhead by avoiding the installation of additional software acr
     When the system is in the state your playbook describes, Ansible does not change anything, even if the playbook runs multiple times.
 
 ----
-#### 🏰  Architecture
+## 🏰  Architecture
 ![Image](https://github.com/user-attachments/assets/24c31cf9-be9d-475b-85bf-dad24a85dd3b)
 
 #### Components of Architecture
@@ -46,7 +46,7 @@ A remote system, or host, that Ansible controls.
 
 
 ----
-#### 🔌 Working (In my words)
+## 🔌 Working (In my words)
 
 - Before Using `Ansible` You need to setup password less ssh explained on week3. If you are using cloud platform.so your all node is in same `Security group` and create all the instances with same `.pem` file for easy setup.
 - It is generally a tool used in `IaC` in `DevOps` it uses to configure the infrastructure.
@@ -68,7 +68,7 @@ A remote system, or host, that Ansible controls.
 
 ----
 
-#### 📥 Installation of Ansible
+## 📥 Installation of Ansible
 This process is only for Debian based Linux distro. if you have others please visit [docs.ansible](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html)
 - We just need to install Ansible in master node only.
 
@@ -81,7 +81,7 @@ This process is only for Debian based Linux distro. if you have others please vi
 - Just run these commands it will automatically install Ansible.
 
 ----
-#### 📝 Implementation of Inventory
+## 📝 Implementation of Inventory
 
 **The inventory is divided into some included things**
 - **Groups** The all connected host/nodes are divided into groups eg. Development and production groups.
@@ -162,7 +162,7 @@ ansible all -i <path-of-inventory> -m ping
 
 
 
-#### 💉 Concept of Ad-hoc commands.
+## 💉 Concept of Ad-hoc commands.
 **Understanding it in a simple way by some small example which I use to do task with Ansible `ad-hoc` commands. This is generally an imperative way to execute the task with Ansible.**
 
 Ad-hoc commands are great for tasks you repeat rarely. For example, if you want to power off all the machines in your lab for Christmas vacation, you could execute a quick one-liner in Ansible without writing a playbook. An ad hoc command looks like this.
@@ -188,7 +188,7 @@ e.g
 - This is how we can use ad-hoc commands.
 ----
 
-#### 📖 Playbook and its modules.
+## 📖 Playbook and its modules.
 Playbooks are automation blueprints, in `YAML` format, that Ansible uses to deploy and configure nodes in an inventory. This guide introduces you to playbooks and then covers different use cases for tasks and plays
 
 - Executing tasks with elevated privileges or as a different user.
@@ -256,7 +256,7 @@ All [modules](https://docs.ansible.com/projects/ansible/latest/collections/ansib
 ##### This is how the playbook modules and its parameter works. 
 -----
 
-#### 🚂 How to run the Playbook 
+## 🚂 How to run the Playbook 
 step 1:
 - Open terminal.
 - Open the directory where the playbook is located.

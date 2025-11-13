@@ -288,7 +288,8 @@ step 3: (optional)
     ansible-playbook -i <path-of-inventory> <path-of-repository> -K -vv
     ````
 ----
-##### This is all about Ansible and its power to execute the task on hundreds of nodes by using simple inventory setup, playbook and some commands.
+##### 🌀 This is all about Ansible and its power to execute the task on hundreds of nodes by using simple inventory setup, playbook and some commands.
+##### ♦️ This is only a documentation on my server. But really the Ansible have vast explanation and tech stack.
 ## 🥳 Done
 ## 😊 Hear We have Done the phase 4 of building OWN K8s On-Premises-Server 
 
